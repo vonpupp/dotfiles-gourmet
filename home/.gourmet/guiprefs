@@ -47,45 +47,45 @@ p21
 S'position'
 p23
 I400
-ssS'rectree_hidden_columns'
+ssS'shopGuiWin'
 p24
-(lp25
-S'Website'
+(dp25
+sS'rec_editor_window'
 p26
-aS'Yield'
-p27
-aS'Yield Unit'
-p28
-aS'Preparation Time'
-p29
-aS'Cooking Time'
-p30
-asS'rec_editor_window'
-p31
-(dp32
+(dp27
 g9
 (I1281
 I19
-tp33
+tp28
 sg11
 (I700
 I600
-tp34
+tp29
 ssS'sautTog'
-p35
-(dp36
+p30
+(dp31
 S'active'
-p37
+p32
 I01
 ssS'regexpTog'
-p38
-(dp39
-g37
+p33
+(dp34
+g32
 I00
-ssS'shopGuiWin'
+ssS'rectree_hidden_columns'
+p35
+(lp36
+S'Website'
+p37
+aS'Yield'
+p38
+aS'Yield Unit'
+p39
+aS'Preparation Time'
 p40
-(dp41
-sS'app_window'
+aS'Cooking Time'
+p41
+asS'app_window'
 p42
 (dp43
 g23
